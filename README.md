@@ -19,7 +19,7 @@ Repository for GIT Basic(s), first pull request(s), first contribution(s)
 
 	Click on button
 	
-	![Click on button] ( https://github.com/ai-gaanv/Hello-GitHub/blob/master/images/branch.png)
+	<img align="right" width="300" src="images/branch.png" alt="Click on button" />
 	Type branch name in textbox and Hit Enter
 
 
