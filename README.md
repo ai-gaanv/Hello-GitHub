@@ -53,3 +53,17 @@ Repository for GIT Basic(s), first pull request(s), first contribution(s)
 	git commit -a -m "Change titles and styling on homepage"
 
 	-amend helps to rewrite the last commit
+
+
+'How-To' Push the Changes
+
+	Ensure expected branch is checkedout. Can use checkout command mentioned above
+
+	It's simple
+
+	git push <target> <source>
+
+	ex: git push origin <branch-name>
+	
+	Once push(s) is done, can use below simple as connection is there
+	git push
