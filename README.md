@@ -1,29 +1,28 @@
 # Hello-GitHub
 Repository for GIT Basic(s), first pull request(s), first contribution(s)
 
-##'How-To' Create a copy / clone of repository
+## 'How-To' Create a copy / clone of repository
 
 	git clone <URL of Repository>
 	
 	Example: 
 		git clone https://github.com/ai-gaanv/Hello-GitHub.git
 
-##'How-To' Create a branch of repository on premise (or local machine)
+## 'How-To' Create a branch of repository on premise (or local machine)
 	
 	git checkout -b <New Branch Name>
 	
 	Example:
 		git checkout -b Children-OnPremise-Branch_one
 		
-##'How-To' Create a branch of repository on GitHub Cloud
+## 'How-To' Create a branch of repository on GitHub Cloud
 
 	Click on button
-	[Click on button](https://github.com/ai-gaanv/Hello-GitHub/blob/master/images/branch.png)
-	<img align="right" width="300" src="images/branch.png" alt="Click on button" />
+	[Click on button]( https://github.com/ai-gaanv/Hello-GitHub/blob/master/images/branch.png)
 	Type branch name in textbox and Hit Enter
 
 
-##'How-To' Merge changes from one branch to other
+## 'How-To' Merge changes from one branch to other
 
 	Checkout the branch where to add the changes, then hit the merge.
 
@@ -37,18 +36,18 @@ Repository for GIT Basic(s), first pull request(s), first contribution(s)
 			git merge origin/Children-branch-one
 
 
-##'How-To' Stage the Changes
+## 'How-To' Stage the Changes
 
 	Use Add command to stage the changes for next commit
 	git add images/branch.png
 
-##'How-To' Commit the Changes
+## 'How-To' Commit the Changes
 	
 	-m <message>. This adds the message for commit
 
 	git commit -m "Change Details"
 
-##'How-To' Stage & Commit the Changes
+## 'How-To' Stage & Commit the Changes
 
 	-a Includes all changed files in commit.
 	
@@ -57,7 +56,7 @@ Repository for GIT Basic(s), first pull request(s), first contribution(s)
 	-amend helps to rewrite the last commit
 
 
-##'How-To' Push the Changes
+## 'How-To' Push the Changes
 
 	Ensure expected branch is checkedout. Can use checkout command mentioned above
 
