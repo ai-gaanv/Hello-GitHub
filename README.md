@@ -8,6 +8,7 @@ Repository for GIT Basic(s), first pull request(s), first contribution(s)
 	Example: 
 		git clone https://github.com/ai-gaanv/Hello-GitHub.git
 
+
 ## 'How-To' Create a branch of repository on premise (or local machine)
 	
 	git checkout -b <New Branch Name>
@@ -42,11 +43,14 @@ Repository for GIT Basic(s), first pull request(s), first contribution(s)
 	Use Add command to stage the changes for next commit
 	git add images/branch.png
 
+
 ## 'How-To' Commit the Changes
+
 	
 	-m <message>. This adds the message for commit
 
 	git commit -m "Change Details"
+
 
 ## 'How-To' Stage & Commit the Changes
 
@@ -55,6 +59,7 @@ Repository for GIT Basic(s), first pull request(s), first contribution(s)
 	git commit -a -m "Change titles and styling on homepage"
 
 	-amend helps to rewrite the last commit
+
 
 
 ## 'How-To' Push the Changes
@@ -68,3 +73,4 @@ Repository for GIT Basic(s), first pull request(s), first contribution(s)
 	
 	Once push(s) is done, one can use below one as connection is now there
 	git push
+
