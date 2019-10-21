@@ -18,7 +18,8 @@ Repository for GIT Basic(s), first pull request(s), first contribution(s)
 ## 'How-To' Create a branch of repository on GitHub Cloud
 
 	Click on button
-	[Click on button]( https://github.com/ai-gaanv/Hello-GitHub/blob/master/images/branch.png)
+	
+	![Click on button] ( https://github.com/ai-gaanv/Hello-GitHub/blob/master/images/branch.png)
 	Type branch name in textbox and Hit Enter
 
 
@@ -58,13 +59,12 @@ Repository for GIT Basic(s), first pull request(s), first contribution(s)
 
 ## 'How-To' Push the Changes
 
-	Ensure expected branch is checkedout. Can use checkout command mentioned above
+	Ensure the expected branch is checked out(if not, Can use git checkout)
 
-	It's simple
-
-	git push <target> <source>
-
-	ex: git push origin <branch-name>
+	To push the changes:
 	
-	Once push(s) is done, can use below simple as connection is there
+	git push <target> <source>
+		ex: git push origin <branch-name>
+	
+	Once push(s) is done, one can use below one as connection is now there
 	git push
