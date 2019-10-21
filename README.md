@@ -18,7 +18,7 @@ Repository for GIT Basic(s), first pull request(s), first contribution(s)
 'How-To' Create a branch of repository on GitHub Cloud
 
 	Click on button
-	![Click on button](https://raw.githubusercontent.com/ai-gaanv/Hello-GitHub/master/images/branch.png)
+	[Click on button](https://github.com/ai-gaanv/Hello-GitHub/blob/master/images/branch.png)
 	Type branch name in textbox and Hit Enter
 
 
